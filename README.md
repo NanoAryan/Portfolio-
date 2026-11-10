@@ -1,8 +1,11 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&text=HEY,%20I'M%20ARYAN&fontSize=48&fontColor=ffffff&fontAlignY=50&color=0:020617,50:1e3a8a,100:6d28d9"/>Aspiring Software Engineer 💻
+👋 Hey, I'm Aryan
 
-Creating • Learning • Building • Improving
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:7B2FF7&height=200&section=header&text=ARYAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20Future%20AI%20Engineer&descAlignY=60&descSize=17" width="100%"/>💻 Aspiring Software Engineer
 
-</div>👋 About Me
+Learning • Building • Creating • Improving
+
+</div>---
+👋 About Me
 
 I'm Aryan, a student developer passionate about programming, web development, and technology.
 
