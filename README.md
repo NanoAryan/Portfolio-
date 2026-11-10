@@ -1,45 +1,59 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=200&section=header&text=Hey%20There!%20I'm%20Aryan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>👨‍💻 NanoAryan
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&text=HEY,%20I'M%20ARYAN&fontSize=48&fontColor=ffffff&fontAlignY=50&color=0:020617,50:1e3a8a,100:6d28d9"/>Aspiring Software Engineer 💻
 
-Aspiring Software Developer | Web Developer | Tech Enthusiast
+Creating • Learning • Building • Improving
 
-Turning ideas into reality through code.
+</div>👋 About Me
 
-""GitHub" (https://img.shields.io/badge/GitHub-NanoAryan-black?style=for-the-badge&logo=github)" (https://github.com/NanoAryan)
+I'm Aryan, a student developer passionate about programming, web development, and technology.
 
-</div>---
+I enjoy experimenting with code, creating interactive projects, and exploring new ways to turn ideas into reality.
 
-🚀 About Me
+- 💻 Interested in software development
+- 🌱 Currently learning JavaScript and Python
+- 🎨 Enjoy designing modern websites
+- 🧠 Focused on problem-solving and creativity
+- 🚀 Building projects to improve my skills
+- 🎯 Long-term goal: Become a Software Engineer
 
-- 👋 Hi, I'm Aryan.
-- 💻 Interested in Software Development.
-- 🌱 Currently learning Web Development.
-- 🎯 My goal is to become a Software Engineer.
-- ⚡ I love creating websites, games and coding projects.
+🧰 Tech Stack
 
----
+Languages & Web Technologies
 
-💻 My Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
+</p>Tools & Platforms
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
-</p>---
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,supabase"/>
+</p>⚡ What I Like Building
 
-📊 GitHub Statistics
+Category| Interests
+🌐 Web Development| Modern websites and portfolios
+🎮 Game Development| Interactive browser games
+🛠️ Web Tools| Calculators and useful utilities
+🎨 UI Design| Creative and modern interfaces
+💡 Experiments| Exploring new coding ideas
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NanoAryan&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NanoAryan&layout=compact&theme=tokyonight&hide_border=true" width="48%"/><img src="https://streak-stats.demolab.com?user=NanoAryan&theme=tokyonight&hide_border=true" width="70%"/></div>---
+🧠 My Approach
 
-🏆 GitHub Trophies
+- Learn by building.
+- Understand before memorizing.
+- Experiment with new ideas.
+- Improve through practice.
+- Keep exploring technology.
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=NanoAryan&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/></div>---
+💡 Beyond The Code
 
-🌐 Connect With Me
+I'm interested in discovering new technologies, understanding how software works, and creating things that are both useful and enjoyable to use.
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)" (https://github.com/NanoAryan)
+I believe every small project is an opportunity to learn something new.
 
-</div>---
+🤝 Connect With Me
 
-<div align="center">⭐ Thanks for visiting my profile!
+<div align="left"><a href="https://github.com/NanoAryan">
+<img src="https://img.shields.io/badge/GitHub-NanoAryan-181717?style=for-the-badge&logo=github"/>
+</a></div>---
 
-Keep Learning • Keep Building • Keep Growing
+<div align="center">One idea. One line of code. One step forward.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:9333EA&height=100&section=footer" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6d28d9,50:1e3a8a,100:020617"/></div>
